@@ -1,0 +1,2 @@
+# site
+My Static Website
